@@ -8,6 +8,7 @@ namespace Demonstrate
 {
     internal class ConcreteCreatorB : Creator
     {
+        //Implementing the factory method to create a ConcreteProductB object
         public override IProduct FactoryMethod()
         {
             return new ConcreteProductB();

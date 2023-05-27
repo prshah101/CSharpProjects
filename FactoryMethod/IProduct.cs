@@ -8,6 +8,7 @@ namespace Demonstrate
 {
     public interface IProduct
     {
+        //This interface is used
         void Use();
     }
 }

@@ -8,6 +8,7 @@ namespace Demonstrate
 {
     public class ConcreteProductA : IProduct
     {
+        //This method is used to show which product is being used in the Concrete Creator
         public void Use()
         {
             Console.WriteLine("Using ConcreteProductA");
