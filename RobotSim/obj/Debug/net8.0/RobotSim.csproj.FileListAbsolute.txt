@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\bin\Debug\net8.0\RobotSim.exe
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\bin\Debug\net8.0\RobotSim.deps.json
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\bin\Debug\net8.0\RobotSim.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\bin\Debug\net8.0\RobotSim.dll
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\bin\Debug\net8.0\RobotSim.pdb
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.sourcelink.json
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.dll
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\refint\RobotSim.dll
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.pdb
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\RobotSim.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\CSharpProjects\RobotSim\obj\Debug\net8.0\ref\RobotSim.dll
