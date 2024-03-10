@@ -12,8 +12,7 @@ namespace Vector
         private const int DEFAULT_CAPACITY = 10;
 
         // This array represents the internal data structure wrapped by the vector class.
-        // In fact, all the elements are to be stored in this private  array. 
-        // You will just write extra functionality (methods) to make the work with the array more convenient for the user.
+        // All the elements are to be stored in this private  array. 
         private T[] data;
 
         // This property represents the number of elements in the vector
@@ -32,7 +31,7 @@ namespace Vector
         public Vector() : this(DEFAULT_CAPACITY) { }
 
         // An Indexer is a special type of property that allows a class or structure to be accessed the same way as array for its internal collection. 
-        // For example, introducing the following indexer you may address an element of the vector as vector[i] or vector[0] or ...
+        // So an element of the vector as vector[i] or vector[0] etc
         public T this[int index]
         {
             get
@@ -66,9 +65,8 @@ namespace Vector
         }
 
         // This method searches for the specified object and returns the zero‐based index of the first occurrence within the entire data structure.
-        // This method performs a linear search; therefore, this method is an O(n) runtime complexity operation.
+        // This method performs a linear search
         // If occurrence is not found, then the method returns –1.
-        // Note that Equals is the proper method to compare two objects for equality, you must not use operator '=' for this purpose.
         public int IndexOf(T element)
         {
             for (var i = 0; i < Count; i++)
@@ -78,8 +76,6 @@ namespace Vector
             return -1;
         }
 
-        // TODO:********************************************************************************************
-        // TODO: Your task is to implement all the remaining methods.
         // Read the instruction carefully, study the code examples from above as they should help you to write the rest of the code.
         public void Insert(int index, T element)
         {
@@ -112,6 +108,7 @@ namespace Vector
             throw new NotImplementedException();
         }
 
+        //Clear the elements of the Vector
         public void Clear()
         {
             if (Count != 0)
@@ -122,12 +119,14 @@ namespace Vector
             throw new NotImplementedException();
         }
 
+        //Method to check if the vector contains an element
         public bool Contains(T element)
         {
             return IndexOf(element) >= 0;
             throw new NotImplementedException();
         }
 
+        //Method to remove an element, it finds the index of the element and then uses the RemoveAt method
         public bool Remove(T element)
         {
             // Store the index of the item
@@ -150,6 +149,7 @@ namespace Vector
             throw new NotImplementedException();
         }
 
+        //Method to remove an element at a specific index
         public void RemoveAt(int index)
         {
             // If the index is invalid, throw an exception
@@ -172,6 +172,7 @@ namespace Vector
 
         }
        
+        //This method converts the vector's elements to a readable string format
         public override string ToString()
         {
             // Use StringBuilder construct the string

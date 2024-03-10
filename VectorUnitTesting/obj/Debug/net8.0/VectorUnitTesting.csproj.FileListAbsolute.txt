@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\bin\Debug\net8.0\VectorUnitTesting.exe
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\bin\Debug\net8.0\VectorUnitTesting.deps.json
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\bin\Debug\net8.0\VectorUnitTesting.runtimeconfig.json
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\bin\Debug\net8.0\VectorUnitTesting.dll
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\bin\Debug\net8.0\VectorUnitTesting.pdb
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.AssemblyInfo.cs
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.sourcelink.json
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.dll
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\refint\VectorUnitTesting.dll
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.pdb
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\VectorUnitTesting.genruntimeconfig.cache
+C:\Users\Dell\Documents\GitHub\CSharpProjects\VectorUnitTesting\obj\Debug\net8.0\ref\VectorUnitTesting.dll

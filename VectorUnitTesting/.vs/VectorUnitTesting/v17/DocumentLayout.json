@@ -1,10 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\DesignPatternsCSharp\\VectorUnitTesting\\",
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{338AFD45-3938-483E-BBDB-273D41190C90}|VectorUnitTesting.csproj|c:\\users\\dell\\documents\\github\\designpatternscsharp\\vectorunittesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{338AFD45-3938-483E-BBDB-273D41190C90}|VectorUnitTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\Tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\Vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Documents\\GitHub\\DesignPatternsCSharp\\VectorUnitTesting\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +21,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\Vector.cs",
+              "RelativeDocumentMoniker": "Vector.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\Vector.cs",
+              "RelativeToolTip": "Vector.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAkwMsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:23:06.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\Tester.cs",
+              "RelativeDocumentMoniker": "Tester.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\CSharpProjects\\VectorUnitTesting\\Tester.cs",
+              "RelativeToolTip": "Tester.cs",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T23:23:03.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\Documents\\GitHub\\DesignPatternsCSharp\\VectorUnitTesting\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\DesignPatternsCSharp\\VectorUnitTesting\\Program.cs",
               "ToolTip": "C:\\Users\\Dell\\Documents\\GitHub\\DesignPatternsCSharp\\VectorUnitTesting\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "RelativeToolTip": "..\\..\\DesignPatternsCSharp\\VectorUnitTesting\\Program.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-10T23:18:01.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T23:18:01.862Z"
             }
           ]
         }
